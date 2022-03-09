@@ -4,4 +4,4 @@
 
 * created for the coding challenge portion of a software development job application process
 
-* to execute, run: `python card_game.py`
+* to execute, run: `python3 card_game.py`
